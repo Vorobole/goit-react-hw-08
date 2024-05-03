@@ -17,10 +17,6 @@
   color: salmon;
 }
 
-.labelText {
-  margin-right: 5px;
-}
-
 .inputForm {
   display: flex;
   flex-direction: column;
